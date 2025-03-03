@@ -1,4 +1,4 @@
-## Example acknowledgement
+## Example acknowledgement  
 We acknowledge Scientific Computing at The Institute of Cancer Research for providing HPC and software development support. Their support was instrumental in achieving the results presented in this paper. https://doi.org/10.5281/zenodo.14962107
 
 ---
@@ -7,38 +7,30 @@ We acknowledge Scientific Computing at The Institute of Cancer Research for prov
 # Scientific Computing
 
 ### Scientific Computing, Digital Services, Institute of Cancer Research  
-The Scientific Computing Service at The Institute of Cancer Research (ICR) provides high-performance computing, data storage, software development and research data management support services to help researchers store, manage, and analyze data efficiently.
+The Scientific Computing Service at The Institute of Cancer Research (ICR) provides high-performance computing, data storage, software development and research data management support services to help researchers store, manage, and analyse data efficiently.
 
 ---
 
 ### Staff
-| Name | Role | Orcid | LinkedIn | Started |
-| -- | -- | -- | -- | -- |
-| Ian Giddings | Head of Scientific Computing | [0000-0003-1078-5780](https://orcid.org/0000-0003-1078-5780) | [Profile](https://www.linkedin.com/in/ian-giddings-a56ba88/) | Feb 2011 |  
+Ian Giddings | Head of Scientific Computing | [0000-0003-1078-5780](https://orcid.org/0000-0003-1078-5780) | [Profile](https://www.linkedin.com/in/ian-giddings-a56ba88/) | Feb 2011 |  
 
 **Scientific Computing Infrastructure**  
-| Name | Role | Orcid | LinkedIn | Started |
-| -- | -- | -- | -- | -- |
-| Robert Horton | SC Infrastructure Manager |  | [Profile](https://www.linkedin.com/in/robert-horton-89b0298/) | May 2017 |
-| Mark Allen | SC Infrastructure Engineer |  | [Profile](https://www.linkedin.com/in/mark-allen-a932622/) | Feb 2011 |
-| Roger Kynaston | SC Infrastructure Engineer |  | [Profile](https://www.linkedin.com/in/roger-kynaston-34515929/) | May 2023 |
-| Coral Moore | SC Infrastructure Engineer |  | [Profile](https://www.linkedin.com/in/corallmoore/) | May 2023 |
-| Yaroslav Koisa | SC Infrastructure Engineer |  | [Profile](https://www.linkedin.com/in/yaroslav-koisa-ba381817b/) | Nov 2023 |
-| Guy Thomas | SC Infrastructure Engineer |  | [Profile](https://www.linkedin.com/in/guy-thomas-969382a/) | Nov 2023 |
-
+Robert Horton | SC Infrastructure Manager |  | [Profile](https://www.linkedin.com/in/robert-horton-89b0298/) | May 2017 |  
+Mark Allen | SC Infrastructure Engineer |  | [Profile](https://www.linkedin.com/in/mark-allen-a932622/) | Feb 2011 |  
+Roger Kynaston | SC Infrastructure Engineer |  | [Profile](https://www.linkedin.com/in/roger-kynaston-34515929/) | May 2023 |  
+Coral Moore | SC Infrastructure Engineer |  | [Profile](https://www.linkedin.com/in/corallmoore/) | May 2023 |  
+Yaroslav Koisa | SC Infrastructure Engineer |  | [Profile](https://www.linkedin.com/in/yaroslav-koisa-ba381817b/) | Nov 2023 |  
+Guy Thomas | SC Infrastructure Engineer |  | [Profile](https://www.linkedin.com/in/guy-thomas-969382a/) | Nov 2023 |  
 
 **Research Software Engineering**  
-| Name | Role | Orcid | LinkedIn | Started |
-| -- | -- | -- | -- | -- |
-| Rachel Alcraft | RSE Manager | [0000-0003-2674-6321](https://orcid.org/0000-0003-2674-6321) | [Profile](https://www.linkedin.com/in/rachel-alcraft-07828235/) | May 2023 |
-| Mira Sarkis | RSE | [0000-0002-8573-186X](https://orcid.org/0000-0002-8573-186X) | [Profile](https://www.linkedin.com/in/mira-sarkis-27243046/) | Sep 2024 |
-| Anastasiia Shcherbakova | RSE | [0009-0002-1139-6787](https://orcid.org/0009-0002-1139-6787) | [Profile](https://www.linkedin.com/in/stacy-shcherbakova-684552127/) | Oct 2024 |
-
+Rachel Alcraft | RSE Manager | [0000-0003-2674-6321](https://orcid.org/0000-0003-2674-6321) | [Profile](https://www.linkedin.com/in/rachel-alcraft-07828235/) | May 2023 |  
+Mira Sarkis | RSE | [0000-0002-8573-186X](https://orcid.org/0000-0002-8573-186X) | [Profile](https://www.linkedin.com/in/mira-sarkis-27243046/) | Sep 2024 |  
+Anastasiia Shcherbakova | RSE | [0009-0002-1139-6787](https://orcid.org/0009-0002-1139-6787) | [Profile](https://www.linkedin.com/in/stacy-shcherbakova-684552127/) | Oct 2024 |  
 
 ---
 
 ### Service Capabilities and Functions
-**High Performamce Computing**: We empower our researchers by providing access to High Performance Computing resources, enabling them to tackle complex computational challenges and accelerate their scientific discoveries.  Our HPC services offer tailored support and infrastructure, facilitating advanced research across diverse disciplines.
+**High Performance Computing**: We empower our researchers by providing access to High Performance Computing resources, enabling them to tackle complex computational challenges and accelerate their scientific discoveries.  Our HPC services offer tailored support and infrastructure, facilitating advanced research across diverse disciplines.
 
 **Large Scale Data Storage**: We provide secure and scalable solutions to manage the increasing volumes of data generated by research projects.  These services enable researchers to efficiently store, access, and share their data, facilitating collaboration and accelerating the pace of discovery.
 
@@ -46,37 +38,34 @@ The Scientific Computing Service at The Institute of Cancer Research (ICR) provi
 
 **Software development**: We help you turn research ideas into functional software tools, from conception to implementation and deployment. This can be full software development, adaption and enhancement of existing tools, or rapid prototyping. We specialise in creating bespoke user-friendly applications from an assortment of 3rd party command line tools.
 
-**Web application support**: We support and develop both internally facing and externally facing web applications including R-Shiny apps to support publications and dockerised applicaitons tools.
+**Web application support**: We support and develop both internally facing and externally facing web applications including R-Shiny apps to support publications and dockerised applications tools.
 
 **Application Support**: We support the installation and use of scientific software across the ICR and on Alma, primarily R and python based tools distributed with github or docker but also bioinformatics command line tools.
   
 **Software consulting**: We offer guidance on best practices for software development, code review, and software architecture design.
 
-**Research Software Teaching**: We teach the carpentries material to reasearchers at the ICR as well as in-house developed teaching for the platforms.  
+**Research Software Teaching**: We teach the carpentries material to researchers at the ICR as well as in-house developed teaching for the platforms.  
 
 ---
 
 # History
 
 ### Alumni
-| Name | Orcid | LinkedIn | From | To |
-| -- | -- | -- | -- | -- |
-| Jonathan Lockley |  | [Profile](https://www.linkedin.com/in/jonlockley/) | Feb 2011 | Jun 2023 |
-| Apostolos Sisiaridis |  | [Profile](https://www.linkedin.com/in/tolis-sisiaridis-a226408/) | Sep 2011 | Oct 2016 |
-| Igor Kozin |  | [Profile](https://www.linkedin.com/in/igorkozin/) | Jan 2012 | Dec 2018 |
-| Alex Martin |  |  | Apr 2014 | Jan 2018 |
-| Paul Jeffreys |  | [Profile](https://www.linkedin.com/in/professor-paul-jeffreys-25002149/) | Aug 2018 | Oct 2019 |
-| James Davidson |  | [Profile](https://www.linkedin.com/in/james-davidson-a62a051/) | Jan 2021 | Nov 2022 |
-| Michal Michalowicz |  | [Profile](https://www.linkedin.com/in/michal-michalowicz-0810884b/) | Sep 2016 | Mar 2017 |
-| Benjamin Talbot |  | [Profile](https://www.linkedin.com/in/benjamin-talbot-30a581b8/) | Apr 2017 | Mar 2019 |
-| Dugan Witherick | [0000-0002-9175-0151](https://orcid.org/0000-0002-9175-0151) | [Profile](https://www.linkedin.com/in/dugan-witherick-4b58096/) | Apr 2017 | Jul 2018 |
-| Jamie Alnasir | [0000-0001-8164-4753](https://orcid.org/0000-0001-8164-4753) | [Profile](https://www.linkedin.com/in/dr-jamie-alnasir/) | Mar 2018 | Feb 2020 |
-| Paul Martin |  | [Profile](https://www.linkedin.com/in/paulsputer/) | May 2019 | Oct 2019 |
-| Andreas Biternas |  | [Profile](https://www.linkedin.com/in/andreas-biternas-34526850/) | May 2019 | Aug 2022 |
-| Daniel Whitehouse |  | [Profile](https://www.linkedin.com/in/dan-whitehouse-a4a19274/) | Nov 2019 | May 2020 |
-| Jader Nico Giacon |  | [Profile](https://www.linkedin.com/in/jngiacon/) | Nov 2020 | Jun 2022 |
-| Adam Tyson | [0000-0003-3225-1130](https://orcid.org/0000-0003-3225-1130) | [Profile](https://www.linkedin.com/in/adamltyson/) | Sep 2021 | Apr 2022 |
-| Yamina Boumediene |  |  | Sep 2022 | Dec 2023 |
-| Kareem Marzouk | [0000-0003-2060-8956](https://orcid.org/0000-0003-2060-8956) | [Profile](https://www.linkedin.com/in/bkmarzouk/) | Oct 2022 | Mar 2024 |
-| Flavio Zanchi |  |  | Jun 2013 | Sep 2024 |
-
+Flavio Zanchi |  |  | Jun 2013 | Sep 2024 |  
+Kareem Marzouk | [0000-0003-2060-8956](https://orcid.org/0000-0003-2060-8956) | [Profile](https://www.linkedin.com/in/bkmarzouk/) | Oct 2022 | Mar 2024 |  
+Yamina Boumediene |  |  | Sep 2022 | Dec 2023 |  
+Jonathan Lockley |  | [Profile](https://www.linkedin.com/in/jonlockley/) | Feb 2011 | Jun 2023 |  
+James Davidson |  | [Profile](https://www.linkedin.com/in/james-davidson-a62a051/) | Jan 2021 | Nov 2022 |  
+Andreas Biternas |  | [Profile](https://www.linkedin.com/in/andreas-biternas-34526850/) | May 2019 | Aug 2022 |  
+Jader Nico Giacon |  | [Profile](https://www.linkedin.com/in/jngiacon/) | Nov 2020 | Jun 2022 |  
+Adam Tyson | [0000-0003-3225-1130](https://orcid.org/0000-0003-3225-1130) | [Profile](https://www.linkedin.com/in/adamltyson/) | Sep 2021 | Apr 2022 |  
+Daniel Whitehouse |  | [Profile](https://www.linkedin.com/in/dan-whitehouse-a4a19274/) | Nov 2019 | May 2020 |  
+Jamie Alnasir | [0000-0001-8164-4753](https://orcid.org/0000-0001-8164-4753) | [Profile](https://www.linkedin.com/in/dr-jamie-alnasir/) | Mar 2018 | Feb 2020 |  
+Paul Martin |  | [Profile](https://www.linkedin.com/in/paulsputer/) | May 2019 | Oct 2019 |  
+Paul Jeffreys |  | [Profile](https://www.linkedin.com/in/professor-paul-jeffreys-25002149/) | Aug 2018 | Oct 2019 |  
+Benjamin Talbot |  | [Profile](https://www.linkedin.com/in/benjamin-talbot-30a581b8/) | Apr 2017 | Mar 2019 |  
+Igor Kozin |  | [Profile](https://www.linkedin.com/in/igorkozin/) | Jan 2012 | Dec 2018 |  
+Dugan Witherick | [0000-0002-9175-0151](https://orcid.org/0000-0002-9175-0151) | [Profile](https://www.linkedin.com/in/dugan-witherick-4b58096/) | Apr 2017 | Jul 2018 |  
+Alex Martin |  |  | Apr 2014 | Jan 2018 |  
+Michal Michalowicz |  | [Profile](https://www.linkedin.com/in/michal-michalowicz-0810884b/) | Sep 2016 | Mar 2017 |  
+Apostolos Sisiaridis |  | [Profile](https://www.linkedin.com/in/tolis-sisiaridis-a226408/) | Sep 2011 | Oct 2016 |  

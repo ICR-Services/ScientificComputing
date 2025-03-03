@@ -1,5 +1,5 @@
 ## Example acknowledgement
-We acknowledge Scientific Computing at The Institute of Cancer Research for providing XXXX. Their support was instrumental in achieving the results presented in this paper.
+We acknowledge Scientific Computing at The Institute of Cancer Research for providing HPC and software development support. Their support was instrumental in achieving the results presented in this paper. https://doi.org/10.5281/zenodo.14962107
 
 ---
 
